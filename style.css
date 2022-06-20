@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    background-color: aquamarine;
+}
+
+article{
+    text-align: center;
+    margin: 150px auto;
+    font-family: 'Open Sans', sans-serif;
+    background-color: whitesmoke;
+    width: 20%;
+    right: 120vh;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+
+p{
+    color: gray;
+    margin-bottom: 10%;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    background-color: white;
+    width: 80%;
+    right: 30vh;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    
+}
